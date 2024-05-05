@@ -1,8 +1,8 @@
 {
   "notes": [
-    { "id": 1, "title": "A thought I had", "body": "Camels are weird", "category": "school" },
-    { "id": 2, "title": "A dream I dreamt", "body": "I was a camel", "category": "house" },
-    { "id": 3, "title": "A thing I did", "body": "I rode a camel", "category": "ideas" },
-    { "id": 4, "title": "Once Upon a Time", "body": "I saw a huge tree", "category": "stories" }
+    { "id": 1, "title": "A thought I had", "description": "Camels are weird", "category": "school", "tags": [], "priority": "", "dateAdded": "" },
+    { "id": 2, "title": "A dream I dreamt", "description": "I was a camel", "category": "house", "tags": [], "priority": "", "dateAdded": "" },
+    { "id": 3, "title": "A thing I did", "description": "I rode a camel", "category": "ideas", "tags": [], "priority": "", "dateAdded": "" },
+    { "id": 4, "title": "Once Upon a Time", "description": "I saw a huge tree", "category": "stories", "tags": [], "priority": "", "dateAdded": "" }
   ]
 }
