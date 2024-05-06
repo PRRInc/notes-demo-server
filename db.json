@@ -4,5 +4,6 @@
     { "id": 2, "title": "A dream I dreamt", "description": "I was a camel", "category": "house", "tags": [], "priority": "", "dateAdded": "" },
     { "id": 3, "title": "A thing I did", "description": "I rode a camel", "category": "ideas", "tags": [], "priority": "", "dateAdded": "" },
     { "id": 4, "title": "Once Upon a Time", "description": "I saw a huge tree", "category": "stories", "tags": [], "priority": "", "dateAdded": "" }
+    { "id": 5, "title": "Chase the Rabbit", "description": "His friends eat honey and carrots", "category": "fiction", "tags": [], "priority": "", "dateAdded": "" }
   ]
 }
